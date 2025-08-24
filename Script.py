@@ -243,8 +243,36 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINK_INFO = """<b>📢 Information Tab</b>  
-<blockquote>1). Note - ❌ You cannot use your own referral link!
+    SHORTLINK_INFO = """<b>Hᴇʟʟᴏ {}</b>
+     📝 Information Tab  
+     
+<blockquote> 
+🔥**To watch or download any movies - just type the movie name.
+🗣किसी भी फिल्म को देखने या डाउनलोड करने के लिए - फिल्म का नाम टाइप करें।**
+      -------------------
+ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴘᴇʟʟɪɴɢ :
+ ❌ Don't Send Like Noob ❌
+
+👉 Avatar Movie
+👉 The Batman Hindi
+👉 Avengers Movie Bhejo
+👉 Money Heist all Season
+👉 Squid Game Season 2 in Hindi
+👉 Wednesday Season 1 Episode 7 in Hindi
+
+✅ Send Like Proo ✅
+
+👉 The Batman
+👉 Avatar 2024
+👉 Avengers Endgame
+👉 Money Heist S03
+👉 Wednesday S01E07
+👉 Squid Game S02E01
+
+📌 Just send correct name – nothing else
+📌 Spelling must be accurate
+-------------------------------
+Note - ❌ You cannot use your own referral link!
 Yᴏᴜ Cᴀɴ'ᴛ Rᴇғᴇʀ Yᴏᴜʀsᴇʟғ !
 
 वो लिंक किसी और को भेजे....!!
@@ -780,3 +808,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
