@@ -1107,13 +1107,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.message.edit_text(text=new_text)
             return
         else:
-            new_text= "**🤣 you already used free now no more free trail. please buy subscription here are our 👉 /plans**"
+            new_text= "**🤣 you already used free now no more free trail. please buy subscription here are our 👉 /plan**"
             await query.message.edit_text(text=new_text)
             return
             
     elif query.data == "buy_premium":
         btn = [[            
-            InlineKeyboardButton("✅sᴇɴᴅ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ʀᴇᴄᴇɪᴘᴛ ʜᴇʀᴇ ✅", url = OWNER_LINK)
+            InlineKeyboardButton("✅sᴇɴᴅ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ʀᴇᴄᴇɪᴘᴛ ʜᴇʀᴇ ✅", url = "https://t.me/OwnerUpdate")
         ]
             for admin in ADMINS
         ]
@@ -3287,3 +3287,4 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
